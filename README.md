@@ -1,1 +1,1 @@
-# Docker-Pterodactyl-Panel
+# Docker-Pterodactyl
